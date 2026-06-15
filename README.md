@@ -15,11 +15,16 @@ Kluczowe funkcjonalności aplikacji to:
    - Posiada interaktywne etykiety (tooltips) wyświetlające nazwy krajów po najechaniu myszką.
    - Pozwala na kliknięcie dowolnego kraju w celu otwarcia jego profilu muzycznego.
 
+![](img_to_readme/p1.png)
+
 2. **Panel Szczegółów Kraju (Country Panel)**:
    - Wyświetla opis kultury muzycznej danego regionu.
    - Wskazuje znaczące muzycznie regiony wybranego kraju.
    - Prezentuje tradycyjne instrumenty (np. *Bodhrán* dla Irlandii, *Balalaika* dla Rosji, *Berimbau* dla Brazylii).
    - Zawiera playlistę reprezentatywnych utworów.
+
+
+![](img_to_readme/p2.png)
 
 3. **Odtwarzacz Muzyczny (Player Bar)**:
    - Umieszczony na stałe na dole ekranu.
@@ -31,21 +36,34 @@ Kluczowe funkcjonalności aplikacji to:
    - Autouzupełniająca wyszukiwarka w nagłówku strony.
    - Wspiera nawigację klawiaturą (strzałki góra/dół, wybór klawiszem Enter, zamykanie klawiszem Escape).
 
+![](img_to_readme/p2_1.png)
+
 5. **Paszport Muzyczny (Profil Użytkownika)**:
    - Wizualizuje postęp w odkrywaniu świata muzyki (procent odkrytych krajów, pieczątki w paszporcie).
    - Śledzi liczbę odnalezionych instrumentów oraz zapisanych ulubionych utworów.
    - Poziomy podróżnika (np. *Wanderer*).
 
+![](img_to_readme/p4.png)
+
 6. **Lista Ulubionych**:
    - Możliwość dodawania krajów do ulubionych (ikona serduszka w panelu bocznym).
    - Dedykowany widok zarządzania ulubionymi z opcją udostępniania i szybkiego powrotu na mapę.
+
+![](img_to_readme/p3.png)
+
+![](img_to_readme/p6.png)
 
 7. **System Logowania (Authentication)**:
    - Mockowana autoryzacja za pomocą konta Spotify, Google lub tradycyjnego formularza (email + hasło).
    - Odblokowuje spersonalizowane statystyki profilu i zapisywanie ulubionych.
 
+![](img_to_readme/p5.png)
+
+
 8. **Ciemny i Jasny Motyw (Dark & Light Mode)**:
    - Dynamiczny przełącznik motywu w nagłówku.
+
+![](img_to_readme/p7.png)
 
 ---
 
